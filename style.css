@@ -14,7 +14,13 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 1px solid pink;
+}
+
+#start {color: rgb(51, 236, 255)}
+
+#end {color: rgb(255, 51, 190)
+  
 }
 
 .container{
@@ -30,7 +36,7 @@ html{
   height: 600px;
   width: 400px;
   object-fit: cover;
-  border: 1px solid black;
+  border: 1px solid pink;
 }
 
 h2{
